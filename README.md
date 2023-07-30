@@ -1,5 +1,8 @@
 # crud-demo
 
+### Build without tests to prepare for docker
+######```clean package -DskipTests```
+
 ### Cli commands:
 
 ### Docker:
